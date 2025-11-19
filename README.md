@@ -38,7 +38,7 @@ This is the third section:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/harunridjevic/marxbrothers.git
+   git clone https://github.com/shanmuckh/marxbrothers.git
    cd marxbrothers
    ```
 2. Open the project folder and open `index.html` in any browser to see the website in action.
@@ -52,14 +52,4 @@ This is the third section:
 - 🔄 Smooth animations and interactions.
 - 🖥️ Fast loading speeds, making use of minimal resources.
 
----
 
-### 👨‍💻 Created By
-
-This project was developed by **Harun Riđević**.
-
----
-
-### 📄 License
-
-This project is licensed under the MIT License.
